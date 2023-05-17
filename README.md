@@ -10,6 +10,7 @@ My name is Dmitry Kushnir. I'm a researcher at [Odessa State Environmental Unive
 </details> -->
 
 <details>
-    <summary>My photo</summary>
-    <img src="private/12001068_141170602896733_8310692071472705531_o (1).jpg">
+    <summary><b>Projects</b></summary>
+    <i>Computer Network Training Center in Odessa State Environmental University</i>
+    <img src="images/12001068_141170602896733_8310692071472705531_o (1).jpg">
 </details>
